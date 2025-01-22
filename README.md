@@ -1,4 +1,4 @@
-How to Run the Script
+## How to Run the Script
 
 Open PowerShell as Administrator.
 
@@ -8,7 +8,7 @@ Run the script:
 
 .\Configure-OpenSSH.ps1
 
-What This Script Does
+## What This Script Does
 
 Checks if OpenSSH Client and Server are installed, and installs them if they’re missing.
 
